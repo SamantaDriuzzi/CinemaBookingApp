@@ -1,11 +1,11 @@
 import "./App.css";
-import Movie from "./componentes/movie";
+import SelectorDeAsietos from "./componentes/selectorDeAsientos";
 
 function App() {
   return (
     <>
       <h1>Choose you seat</h1>
-      <Movie />
+      <SelectorDeAsietos />
     </>
   );
 }
