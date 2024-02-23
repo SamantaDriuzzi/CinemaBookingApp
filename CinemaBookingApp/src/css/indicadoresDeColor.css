@@ -1,0 +1,12 @@
+.contenedorIndicadores {
+  display: flex;
+  justify-content: space-around;
+}
+
+.indicador {
+  display: flex;
+  align-items: center;
+}
+h3 {
+  margin-left: 5px;
+}
